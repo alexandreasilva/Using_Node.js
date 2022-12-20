@@ -1,6 +1,6 @@
 # Using Node.js
 ## Creating applications to register orders using Node and Express.
-### Metodos
+### Methods
 - GET
 - POST
 - PUT
